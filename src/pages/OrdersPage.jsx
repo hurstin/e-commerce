@@ -5,7 +5,6 @@ const OrdersPage = () => {
   return (
     <>
       <title>Orders</title>
-
       <div className="header">
         <div className="left-section">
           <a href="/" className="header-link">
@@ -34,7 +33,6 @@ const OrdersPage = () => {
           </a>
         </div>
       </div>
-
       <div className="orders-page">
         <div className="page-title">Your Orders</div>
 
